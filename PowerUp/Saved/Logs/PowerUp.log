@@ -17864,3 +17864,901 @@ LogInit: Object subsystem initialized
 [2019.02.15-22.30.59:287][134]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
 [2019.02.15-22.31.31:455][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/BP_Player" FILE="D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/BP_Player.uasset" SILENT=true
 [2019.02.15-22.31.31:655][172]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/BP_PlayerEAEECDA94D0AB7E2CE046B8BC8E798D3.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/BP_Player.uasset'
+[2019.02.15-22.39.30:725][888]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/Level_01_Auto42EE128A0433549899095839184827E11.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Saved/Autosaves/Game/2DSideScrollerBP/Maps/Level_01_Auto4.umap'
+[2019.02.15-22.39.30:731][888]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Level_01' took 0.399
+[2019.02.15-22.39.30:731][888]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.399
+[2019.02.15-22.39.30:734][888]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/PW_Win] ([1] browsable assets)...
+[2019.02.15-22.39.30:734][888]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/PW_Win]
+[2019.02.15-22.39.30:760][888]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/PW_Win_Auto453CB3E4A4CDF19FFE5C3BFA61A328901.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/PW_Win_Auto4.uasset'
+[2019.02.15-22.39.30:762][888]LogFileHelpers: Auto-saving content packages took 0.029
+[2019.02.15-22.42.49:664][684]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.15-22.42.50:465][701]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.15-22.42.50:805][712]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.15-22.42.51:236][726]LogSlate: Window 'BP_Button' being destroyed
+[2019.02.15-22.42.51:244][726]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.15-22.42.52:142][795]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:152][796]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:169][797]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:186][798]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:198][799]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:212][800]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:223][801]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:234][802]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:244][803]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:254][804]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:263][805]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:272][806]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:280][807]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:289][808]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:297][809]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:306][810]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:315][811]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:325][812]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:337][813]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:349][814]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:359][815]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:369][816]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:380][817]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:389][818]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:397][819]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:406][820]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:414][821]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:423][822]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:431][823]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:439][824]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:448][825]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:456][826]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:466][827]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:476][828]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:488][829]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:498][830]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:506][831]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:584][840]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:593][841]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:609][843]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:618][844]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:626][845]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:634][846]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:643][847]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:651][848]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:659][849]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:668][850]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:676][851]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:685][852]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:694][853]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:703][854]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:712][855]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:720][856]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:729][857]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:741][858]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:751][859]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:759][860]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:770][861]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:780][862]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:789][863]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:799][864]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:810][865]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:819][866]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:830][867]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:840][868]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:849][869]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:859][870]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:870][871]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:879][872]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:889][873]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:900][874]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:909][875]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:919][876]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:930][877]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:939][878]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:950][879]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:960][880]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:969][881]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:979][882]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.52:991][883]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.53:000][884]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.53:010][885]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.53:022][886]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.53:031][887]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.53:042][888]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.53:053][889]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.53:062][890]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.53:073][891]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.53:083][892]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.53:093][893]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.53:104][894]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.53:121][895]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.53:137][896]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.53:152][897]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.53:161][898]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.42.56:391][257]MapCheck: New page: Map Check
+[2019.02.15-22.42.56:417][257]Cmd: MAP REBUILD ALLVISIBLE
+[2019.02.15-22.42.56:425][257]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.02.15-22.42.56:767][257]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.02.15-22.42.56:788][257]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaskedUnlitSpriteMaterial, compiling. 
+[2019.02.15-22.42.57:671][257]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.15-22.42.57:671][257]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.15-22.42.57:671][257]TextureStreamingBuild: Display: Compiling optional shaders took 0.917 seconds.
+[2019.02.15-22.42.57:689][257]LogLevel: Display: Export Material TexCoord Scales took 0.018 seconds.
+[2019.02.15-22.42.57:796][257]TextureStreamingBuild: Display: Build Texture Streaming took 0.106 seconds.
+[2019.02.15-22.42.57:828][257]LightingResults: New page: Lighting Build - 16.02.2019 00:42:57
+[2019.02.15-22.42.57:906][257]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.02.15-22.42.58:068][257]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.02.15-22.42.58:092][257]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.02.15-22.42.59:615][257]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.02.15-22.42.59:615][257]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16296
+[2019.02.15-22.43.02:047][257]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.02.15-22.43.02:047][257]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.02.15-22.43.02:047][257]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.02.15-22.43.02:047][257]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.02.15-22.43.02:048][257]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.02.15-22.43.02:048][257]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.02.15-22.43.02:317][257]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.02.15-22.43.02:317][257]MapCheck: New page: Level_01 - 16.02.2019 00:43:02
+[2019.02.15-22.43.02:321][257]MapCheck: Warning: Tiles_Sprite_2 'Tiles_Sprite_16' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2019.02.15-22.43.02:479][257]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 161,322ms to complete.
+[2019.02.15-22.43.02:502][257]LogEditorBuildUtils: Build time 0:06
+[2019.02.15-22.43.02:548][257]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.02.15-22.43.02:563][257]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.15-22.43.02:563][257]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.02.15-22.43.02:641][257]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.15-22.43.02:701][258]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.02.15-22.43.02:727][258]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.15-22.43.02:727][258]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.02.15-22.43.04:024][260]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.15-22.43.05:912][319]Job is a success!
+[2019.02.15-22.43.05:998][320]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2019.02.15-22.43.05:998][320]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.02.15-22.43.05:998][320]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2019.02.15-22.43.05:998][320]LogVolumetricLightmapImport:      Bricks at Level
+[2019.02.15-22.43.05:998][320]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2019.02.15-22.43.05:998][320]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2019.02.15-22.43.05:998][320]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.02.15-22.43.06:035][320]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 64X64)
+[2019.02.15-22.43.06:035][320]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 64X64)
+[2019.02.15-22.43.06:035][320]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 32X32)
+[2019.02.15-22.43.06:156][320]Lightmass on MANUEL-PC: 827 ms total, 173 ms importing, 11 ms setup, 164 ms photons, 362 ms processing, 0 ms extra exporting [1/1 mappings]. Threads: 1.41 sec total, 144 ms processing.
+[2019.02.15-22.43.06:217][320]LogStaticLightingSystem: Illumination: 8.35 sec (11 ms encoding lightmaps, 3 ms encoding shadowmaps)
+[2019.02.15-22.43.06:217][320]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.02.15-22.43.06:217][320]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.02.15-22.43.07:049][320]DumpUnbuiltLightIteractions
+[2019.02.15-22.43.07:049][320]Lights with unbuilt interactions: 0
+[2019.02.15-22.43.07:049][320]
+[2019.02.15-22.43.07:049][320]Primitives with unbuilt interactions: 0
+[2019.02.15-22.43.07:262][321]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.02.15-22.43.07:262][321]MapCheck: New page: Level_01 - 16.02.2019 00:43:07
+[2019.02.15-22.43.07:263][321]MapCheck: Warning: Tiles_Sprite_2 'Tiles_Sprite_16' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2019.02.15-22.43.07:405][321]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 142,981ms to complete.
+[2019.02.15-22.43.08:815][438]LogSlate: Window 'Message Log' being destroyed
+[2019.02.15-22.43.08:822][438]LogSlate: Window 'Message Log' being destroyed
+[2019.02.15-22.43.39:606][635]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.43.39:615][636]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.43.39:634][637]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.43.39:664][638]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.43.39:681][639]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.43.39:713][640]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode
+[2019.02.15-22.43.40:131][640]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.43.51:195][479]LogSlate: Window '2DSideScrollerGameMode' being destroyed
+[2019.02.15-22.43.57:942][ 67]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.02.15-22.43.58:021][ 68]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.PowerUp
+[2019.02.15-22.43.58:021][ 68]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.02.15-22.43.58:021][ 68]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2019.02.15-22.43.58:021][ 68]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.02.15-22.43.58:021][ 68]LogTemp: BranchPath = MANUEL-PC/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = MANUEL-PC/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2019.02.15-22.43.58:056][ 69]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\manue\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.02.15-22.44.20:361][234]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.20:376][235]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.20:393][236]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.20:409][237]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.20:422][238]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.20:439][239]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.20:452][240]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.20:463][241]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.20:471][242]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.20:479][243]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.20:488][244]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.20:497][245]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.20:506][246]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.20:515][247]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.20:523][248]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.21:514][297]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.15-22.44.21:596][297]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.21:608][298]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.21:620][299]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.21:647][300]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.21:660][301]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.21:671][302]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.21:682][303]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.21:694][304]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.21:708][305]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.21:723][306]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.21:739][307]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.21:762][308]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.21:779][309]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.44.40:202][944]LogSlate: Window 'Project Settings' being destroyed
+[2019.02.15-22.44.40:207][944]LogSlate: Window 'Project Settings' being destroyed
+[2019.02.15-22.44.43:953][361]MapCheck: New page: Map Check
+[2019.02.15-22.44.43:971][361]Cmd: MAP REBUILD ALLVISIBLE
+[2019.02.15-22.44.43:971][361]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.02.15-22.44.44:242][361]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.02.15-22.44.44:248][361]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaskedUnlitSpriteMaterial, compiling. 
+[2019.02.15-22.44.44:848][361]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.15-22.44.44:848][361]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.15-22.44.44:848][361]TextureStreamingBuild: Display: Compiling optional shaders took 0.609 seconds.
+[2019.02.15-22.44.44:853][361]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2019.02.15-22.44.44:963][361]TextureStreamingBuild: Display: Build Texture Streaming took 0.109 seconds.
+[2019.02.15-22.44.44:994][361]LightingResults: New page: Lighting Build - 16.02.2019 00:44:44
+[2019.02.15-22.44.45:003][361]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.02.15-22.44.45:006][361]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.02.15-22.44.45:006][361]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.02.15-22.44.45:007][361]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.02.15-22.44.45:007][361]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16296
+[2019.02.15-22.44.49:553][361]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.02.15-22.44.49:553][361]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.02.15-22.44.49:553][361]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.02.15-22.44.49:553][361]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.02.15-22.44.49:553][361]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.02.15-22.44.49:553][361]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.02.15-22.44.49:711][361]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.02.15-22.44.49:711][361]MapCheck: New page: Level_01 - 16.02.2019 00:44:49
+[2019.02.15-22.44.49:712][361]MapCheck: Warning: Tiles_Sprite_2 'Tiles_Sprite_16' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2019.02.15-22.44.49:849][361]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 137,526ms to complete.
+[2019.02.15-22.44.49:871][361]LogEditorBuildUtils: Build time 0:05
+[2019.02.15-22.44.51:295][416]Job is a success!
+[2019.02.15-22.44.51:370][417]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2019.02.15-22.44.51:370][417]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.02.15-22.44.51:370][417]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2019.02.15-22.44.51:370][417]LogVolumetricLightmapImport:      Bricks at Level
+[2019.02.15-22.44.51:370][417]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2019.02.15-22.44.51:370][417]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2019.02.15-22.44.51:370][417]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.02.15-22.44.51:395][417]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 64X64)
+[2019.02.15-22.44.51:395][417]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 64X64)
+[2019.02.15-22.44.51:395][417]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.02.15-22.44.51:445][417]Lightmass on MANUEL-PC: 694 ms total, 149 ms importing, 10 ms setup, 160 ms photons, 318 ms processing, 0 ms extra exporting [1/1 mappings]. Threads: 1.23 sec total, 126 ms processing.
+[2019.02.15-22.44.51:458][417]LogStaticLightingSystem: Illumination: 6.43 sec (6 ms encoding lightmaps, 1 ms encoding shadowmaps)
+[2019.02.15-22.44.51:458][417]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.02.15-22.44.51:458][417]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.02.15-22.44.51:557][417]DumpUnbuiltLightIteractions
+[2019.02.15-22.44.51:557][417]Lights with unbuilt interactions: 0
+[2019.02.15-22.44.51:557][417]
+[2019.02.15-22.44.51:557][417]Primitives with unbuilt interactions: 0
+[2019.02.15-22.44.51:657][418]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.02.15-22.44.51:658][418]MapCheck: New page: Level_01 - 16.02.2019 00:44:51
+[2019.02.15-22.44.51:658][418]MapCheck: Warning: Tiles_Sprite_2 'Tiles_Sprite_16' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2019.02.15-22.44.51:797][418]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 139,638ms to complete.
+[2019.02.15-22.45.24:410][703]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.24:945][ 64]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.26:626][250]LogSlate: Window 'Message Log' being destroyed
+[2019.02.15-22.47.26:630][250]LogSlate: Window 'Message Log' being destroyed
+[2019.02.15-22.47.52:727][ 95]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:736][ 96]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:744][ 97]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:752][ 98]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:761][ 99]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:769][100]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:777][101]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:786][102]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:794][103]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:802][104]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:811][105]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:819][106]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:827][107]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:836][108]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:844][109]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:852][110]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:861][111]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:869][112]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:877][113]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:885][114]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:894][115]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:902][116]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:910][117]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:919][118]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:927][119]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:936][120]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:944][121]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:953][122]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:961][123]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:969][124]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:978][125]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:986][126]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.52:995][127]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:003][128]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:012][129]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:020][130]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:028][131]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:037][132]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:045][133]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:053][134]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:062][135]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:070][136]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:079][137]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:087][138]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:096][139]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:111][140]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:131][141]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:150][142]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:165][143]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:178][144]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:188][145]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:197][146]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:206][147]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:214][148]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:222][149]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:230][150]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:239][151]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:247][152]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:255][153]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:264][154]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.47.53:272][155]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-22.49.33:563][854]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/Level_01_Auto5853C02244567957EA5BB129EDC0FA3DF.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Saved/Autosaves/Game/2DSideScrollerBP/Maps/Level_01_Auto5.umap'
+[2019.02.15-22.49.33:569][854]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Level_01' took 0.377
+[2019.02.15-22.49.33:569][854]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.377
+[2019.02.15-22.49.33:573][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Maps/Level_01_BuiltData] ([1] browsable assets)...
+[2019.02.15-22.49.33:573][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Maps/Level_01_BuiltData]
+[2019.02.15-22.49.33:599][854]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/Level_01_BuiltData_Auto53D5632F14BABF75A67EDDD88986FF434.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Saved/Autosaves/Game/2DSideScrollerBP/Maps/Level_01_BuiltData_Auto5.uasset'
+[2019.02.15-22.49.33:601][854]LogFileHelpers: Auto-saving content packages took 0.030
+[2019.02.15-23.00.06:693][754]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.06:742][755]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.06:754][756]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.06:770][757]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.06:789][758]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.06:805][759]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.06:815][760]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.06:828][761]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.06:840][762]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.06:851][763]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.06:865][764]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.06:876][765]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.06:888][766]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.06:902][767]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.06:914][768]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.06:926][769]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.06:936][770]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.06:948][771]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.06:960][772]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.06:969][773]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.06:981][774]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.06:990][775]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.06:999][776]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:008][777]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:016][778]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:025][779]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:033][780]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:041][781]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:050][782]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:058][783]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:067][784]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:075][785]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:083][786]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:092][787]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:100][788]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:108][789]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:117][790]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:125][791]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:134][792]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:142][793]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:151][794]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:159][795]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:168][796]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:176][797]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:185][798]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:193][799]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:202][800]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:211][801]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:220][802]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:229][803]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:237][804]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:248][805]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:256][806]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:264][807]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:271][808]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:281][809]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:288][810]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:297][811]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:305][812]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:313][813]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:321][814]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:330][815]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:339][816]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:349][817]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:358][818]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:369][819]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:383][820]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:392][821]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:402][822]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:412][823]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:421][824]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:431][825]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:441][826]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:452][827]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:462][828]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:472][829]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:481][830]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:491][831]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:500][832]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:510][833]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:519][834]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:530][835]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:540][836]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:549][837]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:558][838]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:568][839]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:576][840]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:585][841]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:593][842]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:600][843]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:610][844]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:618][845]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:629][846]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:644][847]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:657][848]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:671][849]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:684][850]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:695][851]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:706][852]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:715][853]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:724][854]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:732][855]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:740][856]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:749][857]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:757][858]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:765][859]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:774][860]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:782][861]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:790][862]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:799][863]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:807][864]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:815][865]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:823][866]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:833][867]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:841][868]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:850][869]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:858][870]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:867][871]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:875][872]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:883][873]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:892][874]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:900][875]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:908][876]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:917][877]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:925][878]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:934][879]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:942][880]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:950][881]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:959][882]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:967][883]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:976][884]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:984][885]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.07:993][886]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:001][887]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:010][888]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:019][889]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:027][890]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:036][891]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:044][892]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:052][893]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:061][894]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:069][895]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:077][896]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:085][897]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:094][898]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:102][899]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:110][900]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:119][901]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:127][902]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:136][903]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:144][904]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:152][905]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:161][906]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:169][907]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:178][908]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:186][909]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:195][910]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:203][911]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:212][912]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:220][913]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:228][914]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:237][915]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:245][916]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:253][917]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:262][918]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:270][919]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:279][920]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:287][921]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:295][922]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:304][923]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:312][924]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:321][925]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:329][926]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:337][927]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:346][928]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:353][929]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:362][930]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:371][931]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:379][932]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:387][933]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:396][934]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:404][935]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:412][936]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:421][937]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:429][938]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:437][939]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:446][940]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:454][941]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:463][942]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:471][943]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:479][944]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:487][945]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:496][946]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:504][947]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:513][948]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:521][949]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:529][950]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:538][951]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:546][952]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:556][953]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:564][954]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:573][955]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:581][956]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:589][957]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:598][958]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:606][959]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:614][960]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:622][961]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:632][962]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:640][963]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:648][964]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:665][966]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:673][967]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:682][968]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.00.08:690][969]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.47:939][892]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.47:975][893]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:014][894]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:032][895]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:052][896]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:071][897]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:084][898]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:098][899]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:113][900]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:124][901]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:135][902]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:145][903]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:154][904]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:163][905]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:172][906]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:181][907]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:191][908]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:199][909]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:209][910]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:219][911]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:228][912]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:238][913]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:249][914]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:262][915]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:274][916]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:284][917]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:303][918]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:317][919]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:329][920]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:342][921]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:354][922]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:370][923]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:381][924]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:391][925]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:400][926]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:409][927]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:418][928]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:427][929]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:435][930]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:443][931]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:452][932]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:460][933]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:469][934]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:483][935]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:493][936]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:502][937]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:510][938]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:522][939]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:531][940]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:541][941]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:552][942]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:563][943]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:574][944]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:582][945]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:594][946]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:611][947]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:626][948]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:646][949]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:657][950]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:666][951]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:674][952]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:683][953]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:691][954]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:699][955]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:708][956]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:716][957]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:725][958]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:733][959]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:741][960]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:750][961]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:758][962]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:767][963]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:775][964]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:783][965]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:791][966]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.04.48:801][967]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.11:826][436]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.11:834][437]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.11:846][438]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.11:858][439]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.11:868][440]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.11:877][441]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.11:899][442]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.11:914][443]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.11:927][444]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.11:937][445]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.11:951][446]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.11:961][447]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.11:981][448]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.11:998][449]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:010][450]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:019][451]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:031][452]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:043][453]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:052][454]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:060][455]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:068][456]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:078][457]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:086][458]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:094][459]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:103][460]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:111][461]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:119][462]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:128][463]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:136][464]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:146][465]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:155][466]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:164][467]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:173][468]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:182][469]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:192][470]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:201][471]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:211][472]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:219][473]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:228][474]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:237][475]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:246][476]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:259][477]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:272][478]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:281][479]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:293][480]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:308][481]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:318][482]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:328][483]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:338][484]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:353][485]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:370][486]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:382][487]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:397][488]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:409][489]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:429][490]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:442][491]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:458][492]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:471][493]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:487][494]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:501][495]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:514][496]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:532][497]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:548][498]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:560][499]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:572][500]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:586][501]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:599][502]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:609][503]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:625][504]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:635][505]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:644][506]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:653][507]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:662][508]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:670][509]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:687][511]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:695][512]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:704][513]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:712][514]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:721][515]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:741][516]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:751][517]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:759][518]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:768][519]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:777][520]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:786][521]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:794][522]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.12:802][523]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:105][618]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:143][619]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:186][620]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:212][621]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:230][622]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:245][623]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:255][624]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:265][625]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:275][626]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:289][627]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:301][628]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:310][629]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:319][630]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:327][631]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:336][632]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:344][633]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:364][634]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:381][635]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:395][636]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:408][637]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:417][638]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:426][639]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:434][640]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:442][641]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:451][642]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:460][643]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:469][644]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:477][645]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:485][646]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:494][647]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:502][648]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:511][649]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:520][650]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:530][651]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:544][652]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:555][653]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:570][654]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:582][655]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:598][656]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:609][657]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:621][658]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:631][659]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:643][660]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:653][661]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:662][662]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:672][663]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:681][664]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:690][665]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:698][666]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:706][667]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:715][668]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:723][669]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:732][670]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:740][671]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:748][672]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:757][673]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:766][674]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:776][675]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:784][676]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:794][677]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:802][678]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:812][679]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:821][680]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:829][681]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:837][682]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:846][683]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:854][684]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:863][685]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:871][686]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:880][687]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:889][688]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:897][689]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:905][690]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:914][691]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:923][692]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:931][693]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:940][694]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:948][695]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:957][696]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:965][697]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:973][698]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:981][699]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:990][700]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.24:998][701]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:008][702]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:016][703]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:025][704]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:034][705]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:043][706]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:052][707]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:061][708]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:070][709]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:079][710]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:089][711]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:097][712]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:106][713]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:115][714]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:123][715]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:132][716]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:142][717]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:151][718]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:160][719]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:169][720]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:177][721]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:186][722]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:195][723]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:203][724]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:212][725]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:221][726]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:230][727]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:238][728]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:247][729]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:256][730]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:265][731]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:274][732]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:282][733]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:291][734]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:301][735]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:309][736]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:318][737]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:327][738]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:335][739]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:345][740]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:354][741]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:362][742]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:372][743]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:382][744]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:391][745]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:399][746]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:409][747]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:418][748]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:430][749]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:438][750]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:447][751]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:455][752]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:464][753]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:472][754]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:481][755]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:490][756]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:499][757]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:507][758]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:516][759]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:524][760]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:533][761]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:543][762]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:551][763]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:561][764]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:571][765]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:581][766]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:590][767]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:598][768]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:607][769]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:615][770]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:625][771]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:633][772]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:642][773]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:651][774]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:661][775]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:670][776]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:679][777]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:688][778]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:697][779]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:706][780]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:715][781]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:724][782]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:733][783]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:742][784]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:751][785]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:760][786]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:769][787]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:778][788]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:786][789]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:795][790]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:803][791]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:813][792]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:889][801]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:897][802]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:906][803]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:915][804]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:923][805]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.25:950][806]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/BP_PUSpawner.BP_PUSpawner
+[2019.02.15-23.07.26:441][807]LogSpawn: Warning: SpawnActor failed because class BP_PowerUp_Item_C is abstract
+[2019.02.15-23.07.43:260][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/BP_PUSpawner" FILE="D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/BP_PUSpawner.uasset" SILENT=true
+[2019.02.15-23.07.43:303][981]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/BP_PUSpawnerD0831545458DEA8B3A14EC824C814CFC.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/BP_PUSpawner.uasset'
+[2019.02.15-23.07.44:075][ 30]BlueprintLog: New page: Compile BP_PUSpawner
