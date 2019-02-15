@@ -1,0 +1,496 @@
+﻿Log file open, 02/14/19 14:14:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: PowerUp
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.215529
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.307s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU:        Intel(R) Core(TM) i5-2500K CPU @ 3.30GHz, GPU: NVIDIA GeForce GTX 760
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.010s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.02.14-13.14.32:075][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.14-13.14.32:075][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.14-13.14.32:096][  0]LogHAL: Display: Platform has ~ 16 GB [17140109312 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.14-13.14.32:096][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.02.14-13.14.32:096][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.14-13.14.32:097][  0]LogInit: Computer: MANUEL-PC
+[2019.02.14-13.14.32:097][  0]LogInit: User: manue
+[2019.02.14-13.14.32:097][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.14-13.14.32:097][  0]LogInit: High frequency timer resolution =3.215354 MHz
+[2019.02.14-13.14.32:097][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.02.14-13.14.32:097][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.14-13.14.32:097][  0]LogMemory: Process Physical Memory: 100.44 MB used, 100.44 MB peak
+[2019.02.14-13.14.32:097][  0]LogMemory: Process Virtual Memory: 84.36 MB used, 84.36 MB peak
+[2019.02.14-13.14.32:097][  0]LogMemory: Physical Memory: 6028.89 MB used,  10317.20 MB free, 16346.08 MB total
+[2019.02.14-13.14.32:097][  0]LogMemory: Virtual Memory: 4620.62 MB used,  10317.20 MB free, 134217728.00 MB total
+[2019.02.14-13.14.32:125][  0]LogInit: Using OS detected language (de-DE).
+[2019.02.14-13.14.32:125][  0]LogInit: Using OS detected locale (de-DE).
+[2019.02.14-13.14.32:126][  0]LogTextLocalizationManager: No specific localization for 'de-DE' exists, so the 'de' localization will be used.
+[2019.02.14-13.14.32:128][  0]LogStreaming: Display: Took  0.004s to InitEngineTextLocalization.
+[2019.02.14-13.14.32:129][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.14-13.14.32:169][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.14-13.14.32:169][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.14-13.14.32:427][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.14-13.14.32:427][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.14-13.14.32:522][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2019.02.14-13.14.32:522][  0]LogD3D11RHI:       2007/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.02.14-13.14.32:525][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.14-13.14.32:525][  0]LogD3D11RHI:       0/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.14-13.14.32:525][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.14-13.14.32:536][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.14-13.14.32:536][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.14-13.14.32:536][  0]LogWindows: EnumDisplayDevices:
+[2019.02.14-13.14.32:536][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2019.02.14-13.14.32:537][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2019.02.14-13.14.32:538][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2019.02.14-13.14.32:538][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2019.02.14-13.14.32:538][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.02.14-13.14.32:538][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2019.02.14-13.14.32:538][  0]LogD3D11RHI:   Driver Version: 417.71 (internal:25.21.14.1771, unified:417.71)
+[2019.02.14-13.14.32:538][  0]LogD3D11RHI:      Driver Date: 1-11-2019
+[2019.02.14-13.14.32:538][  0]LogRHI: Texture pool is 1404 MB (70% of 2007 MB)
+[2019.02.14-13.14.32:614][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.14-13.14.32:634][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.14-13.14.32:689][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (D:/Coden/UnrealEngine4/PowerUp/Intermediate/Shaders/WorkingDirectory/7612/).
+[2019.02.14-13.14.32:689][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/manue/AppData/Local/Temp/UnrealShaderWorkingDir/BDE5E64E4C066B51F55692B90669BE46/'.
+[2019.02.14-13.14.33:056][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.14-13.14.33:075][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.14-13.14.33:094][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.14-13.14.33:113][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.14-13.14.33:132][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.14-13.14.33:151][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.14-13.14.33:170][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.14-13.14.33:190][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.14-13.14.33:199][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.14-13.14.33:306][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-13.14.33:306][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-13.14.33:306][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-13.14.33:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-13.14.33:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-13.14.33:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-13.14.33:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-13.14.33:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-13.14.33:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-13.14.33:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-13.14.33:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-13.14.33:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-13.14.33:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-13.14.33:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-13.14.33:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-13.14.33:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-13.14.33:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-13.14.33:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-13.14.33:309][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.14-13.14.33:379][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.14-13.14.33:379][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.14-13.14.33:410][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.14-13.14.33:410][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.14-13.14.33:426][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.14-13.14.33:443][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.14-13.14.33:460][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.14-13.14.33:477][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.14-13.14.33:489][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.14-13.14.33:490][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.14-13.14.33:578][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.14-13.14.33:578][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.14-13.14.33:578][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.14-13.14.34:589][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.14-13.14.34:687][  0]LogDerivedDataCache: Loaded boot cache 0.10s 71MB C:/Users/manue/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.02.14-13.14.34:688][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/manue/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.02.14-13.14.34:688][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Coden/UnrealEngine4/PowerUp/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.14-13.14.34:688][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.14-13.14.34:688][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Coden/UnrealEngine4/PowerUp/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.14-13.14.34:688][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.14-13.14.34:705][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.14-13.14.34:719][  0]LogDerivedDataCache: Using Local data cache path C:/Users/manue/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.14-13.14.34:719][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.14-13.14.34:719][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.14-13.14.34:744][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.14-13.14.34:746][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.14-13.14.34:746][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.14-13.14.34:838][  0]LogAssetRegistry: FAssetRegistry took 0.0273 seconds to start up
+[2019.02.14-13.14.35:278][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.14-13.14.35:354][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.14-13.14.35:359][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.14-13.14.35:359][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.14-13.14.35:359][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.14-13.14.35:359][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.14-13.14.35:495][  0]LogNetVersion: PowerUp 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3510914494)
+[2019.02.14-13.14.36:152][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.138946 seconds
+[2019.02.14-13.14.36:159][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.02.14-13.14.36:159][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.02.14-13.14.36:159][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.14-13.14.37:229][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.14-13.14.37:244][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.14-13.14.37:432][  0]SourceControl: Source control is disabled
+[2019.02.14-13.14.37:432][  0]SourceControl: Source control is disabled
+[2019.02.14-13.14.37:434][  0]SourceControl: Source control is disabled
+[2019.02.14-13.14.37:435][  0]SourceControl: Source control is disabled
+[2019.02.14-13.14.37:638][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.14-13.14.37:817][  0]LogOcInput: OculusInput pre-init called
+[2019.02.14-13.14.37:903][  0]LogEngine: Initializing Engine...
+[2019.02.14-13.14.37:904][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.14-13.14.37:906][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.14-13.14.37:906][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.14-13.14.37:906][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.14-13.14.37:906][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.14-13.14.38:166][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.14-13.14.38:186][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.14-13.14.38:251][  0]LogInit: XAudio2 using 'Lautsprecher (2- High Definition Audio-Gerät)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.14-13.14.38:273][  0]LogInit: FAudioDevice initialized.
+[2019.02.14-13.14.38:273][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.14-13.14.38:406][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/manue/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.02.14-13.14.38:413][  0]LogInit: Texture streaming: Enabled
+[2019.02.14-13.14.38:438][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.14-13.14.38:459][  0]LogInit: Transaction tracking system initialized
+[2019.02.14-13.14.38:493][  0]BlueprintLog: New page: Editor Load
+[2019.02.14-13.14.38:610][  0]LocalizationService: Localization service is disabled
+[2019.02.14-13.14.39:008][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.14-13.14.39:008][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.14-13.14.39:008][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.14-13.14.39:008][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.14-13.14.39:008][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.14-13.14.39:008][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.14-13.14.39:008][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.14-13.14.39:163][  0]LogFileCache: Scanning file cache for directory 'D:/Coden/UnrealEngine4/PowerUp/Content/' took 0.02s
+[2019.02.14-13.14.39:163][  0]SourceControl: Source control is disabled
+[2019.02.14-13.14.39:163][  0]Cmd: MAP LOAD FILE="D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Maps/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.14-13.14.39:178][  0]LightingResults: New page: Lighting Build
+[2019.02.14-13.14.39:182][  0]MapCheck: New page: Map Check
+[2019.02.14-13.14.39:182][  0]LightingResults: New page: Lighting Build
+[2019.02.14-13.14.40:154][  0]LogAIModule: Creating AISystem for world Level_01
+[2019.02.14-13.14.40:170][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.14-13.14.40:195][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.14-13.14.40:305][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 109,284ms to complete.
+[2019.02.14-13.14.40:305][  0]LogFileHelpers: Loading map 'Level_01' took 1.142
+[2019.02.14-13.14.40:444][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-13.14.40:454][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-13.14.40:464][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-13.14.40:474][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-13.14.40:509][  0]LogCollectionManager: Loaded 0 collections in 0.027472 seconds
+[2019.02.14-13.14.40:567][  0]LogFileCache: Scanning file cache for directory 'D:/Coden/UnrealEngine4/PowerUp/Saved/Collections/' took 0.01s
+[2019.02.14-13.14.40:567][  0]LogFileCache: Scanning file cache for directory 'D:/Coden/UnrealEngine4/PowerUp/Content/Developers/manue/Collections/' took 0.01s
+[2019.02.14-13.14.40:568][  0]LogFileCache: Scanning file cache for directory 'D:/Coden/UnrealEngine4/PowerUp/Content/Collections/' took 0.01s
+[2019.02.14-13.14.40:568][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.02.14-13.14.40:580][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2572 classes and 603 folders.
+[2019.02.14-13.14.40:605][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.02.14-13.14.40:844][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.02.14-13.14.40:872][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.02.14-13.14.40:962][  0]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.14-13.14.40:964][  0]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.14-13.14.40:971][  0]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.14-13.14.41:053][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.02.14-13.14.41:201][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.02.14-13.14.41:201][  0]LogLoad: (Engine Initialization) Total time: 11.88 seconds
+[2019.02.14-13.14.41:201][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.14-13.14.41:213][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.14-13.14.41:235][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.14-13.14.41:369][  0]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.14-13.14.41:398][  1]LogAssetRegistry: Asset discovery search completed in 6.5824 seconds
+[2019.02.14-13.14.41:400][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.02.14-13.14.41:400][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000070 seconds (updated 0 objects)
+[2019.02.14-13.14.43:961][289]LogEditorViewport: Clicking Background
+[2019.02.14-13.15.01:820][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-13.15.07:147][774]LogSlate: Took 0.000433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.14-13.15.07:159][774]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2019.02.14-13.15.07:785][774]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2019.02.14-13.15.08:888][774]LogSlate: Took 0.000313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.14-13.15.09:064][775]LogSlate: Took 0.001665 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.14-13.15.23:781][729]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2019.02.14-13.15.49:396][614]LogSlate: Took 0.003320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.02.14-13.15.53:175][992]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.02.14-13.16.00:899][720]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.02.14-13.16.02:093][798]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/2DSideScrollerCharacter18EAA7D844BBD78286785E8662A28E36.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2019.02.14-13.16.37:216][309]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/BP_Player.BP_Player
+[2019.02.14-13.16.39:098][393]LogSlate: Window 'BP_Player' being destroyed
+[2019.02.14-13.16.39:102][393]LogSlate: Window 'BP_Player' being destroyed
+[2019.02.14-13.16.39:168][393]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.14-13.17.14:018][470]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/BP_Player.BP_Player
+[2019.02.14-13.17.49:307][ 19]BlueprintLog: New page: Compile BP_Player
+[2019.02.14-13.17.57:226][424]LogSlate: Window 'Delete Variable' being destroyed
+[2019.02.14-13.18.29:236][672]BlueprintLog: New page: Compile BP_Player
+[2019.02.14-13.21.25:394][360]LogEditorTransaction: Undo Move Nodes
+[2019.02.14-13.24.41:654][990]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Level_01' took 0.032
+[2019.02.14-13.24.41:656][990]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/BP_Player] ([1] browsable assets)...
+[2019.02.14-13.24.41:656][990]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/BP_Player]
+[2019.02.14-13.24.41:783][990]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/BP_Player_Auto1382062E04BFA4FA672D4FD8468E3BBD7.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/BP_Player_Auto1.uasset'
+[2019.02.14-13.24.41:785][990]LogFileHelpers: Auto-saving content packages took 0.131
+[2019.02.14-13.29.01:279][487]BlueprintLog: New page: Compile BP_Player
+[2019.02.14-13.30.05:266][827]LogClass: Warning: Type mismatch in Inventory of SKEL_BP_Player_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2019.02.14-13.30.17:160][592]BlueprintLog: New page: Compile BP_Player
+[2019.02.14-13.30.17:244][592]LogClass: Warning: Type mismatch in Inventory of BP_Player_C - Previous (IntProperty) Current(ArrayProperty) for package:  FObjectReader
+[2019.02.14-13.35.39:930][988]LogEditorTransaction: Undo Move Node
+[2019.02.14-13.36.29:274][460]BlueprintLog: New page: Compile BP_Player
+[2019.02.14-13.36.30:019][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/BP_Player" FILE="D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/BP_Player.uasset" SILENT=true
+[2019.02.14-13.36.30:130][482]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/BP_PlayerBD10797B4BFF123B68319DA1EFCB7A48.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/BP_Player.uasset'
+[2019.02.14-13.36.59:499][763]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Level_01' took 0.047
+[2019.02.14-13.36.59:502][763]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/PowerUp_Pickup] ([1] browsable assets)...
+[2019.02.14-13.36.59:502][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/PowerUp_Pickup]
+[2019.02.14-13.36.59:507][763]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/PowerUp_Pickup_Auto213F804BD493FC583551A13ADE028F161.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/PowerUp_Pickup_Auto2.uasset'
+[2019.02.14-13.36.59:508][763]LogFileHelpers: Auto-saving content packages took 0.008
+[2019.02.14-13.37.12:007][967]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/2DSideScrollerBP/Blueprints/PowerUps.PowerUps
+[2019.02.14-13.38.46:023][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/PowerUps" FILE="D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/PowerUps.uasset" SILENT=true
+[2019.02.14-13.38.46:027][ 32]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/PowerUps84AA3E204C9FF6E7A073A09EC4D2C1C4.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/PowerUps.uasset'
+[2019.02.14-14.21.41:688][546]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/Blueprints/Inventory_UI.Inventory_UI
+[2019.02.14-14.23.33:906][125]LogEditorTransaction: Undo Move Widget
+[2019.02.14-14.23.37:717][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/2DSideScrollerBP/Blueprints/Widget_HUD.Widget_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_5:Inventory_UI_C_0.WidgetTree_0.CanvasPanel_0
+[2019.02.14-14.23.37:717][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/2DSideScrollerBP/Blueprints/Widget_HUD.Widget_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/2DSideScrollerBP/Blueprints/Widget_HUD.Widget_HUD_C:WidgetTree.CanvasPanel_0
+[2019.02.14-14.23.37:717][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/2DSideScrollerBP/Blueprints/Widget_HUD.Widget_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/2DSideScrollerBP/Blueprints/Inventory_UI.Inventory_UI:WidgetTree.CanvasPanel_0
+[2019.02.14-14.23.37:717][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/2DSideScrollerBP/Blueprints/Widget_HUD.Widget_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_5:Inventory_UI_C_1.WidgetTree_0.CanvasPanel_0
+[2019.02.14-14.23.37:717][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/2DSideScrollerBP/Blueprints/Widget_HUD.Widget_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_5:Inventory_UI_C_2.WidgetTree_0.CanvasPanel_0
+[2019.02.14-14.23.37:717][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/2DSideScrollerBP/Blueprints/Widget_HUD.Widget_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_5:Inventory_UI_C_3.WidgetTree_0.CanvasPanel_0
+[2019.02.14-14.23.37:717][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/2DSideScrollerBP/Blueprints/Widget_HUD.Widget_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_5:Inventory_UI_C_4.WidgetTree_0.CanvasPanel_0
+[2019.02.14-14.23.37:717][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/2DSideScrollerBP/Blueprints/Widget_HUD.Widget_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_5:Inventory_UI_C_5.WidgetTree_0.CanvasPanel_0
+[2019.02.14-14.23.37:717][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/2DSideScrollerBP/Blueprints/Widget_HUD.Widget_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_5:Inventory_UI_C_6.WidgetTree_0.CanvasPanel_0
+[2019.02.14-14.23.37:717][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/2DSideScrollerBP/Blueprints/Widget_HUD.Widget_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_5:Inventory_UI_C_7.WidgetTree_0.CanvasPanel_0
+[2019.02.14-14.23.37:717][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/2DSideScrollerBP/Blueprints/Widget_HUD.Widget_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_5:Inventory_UI_C_8.WidgetTree_0.CanvasPanel_0
+[2019.02.14-14.23.37:717][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/2DSideScrollerBP/Blueprints/Widget_HUD.Widget_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_5:Inventory_UI_C_9.WidgetTree_0.CanvasPanel_0
+[2019.02.14-14.23.37:717][274]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/2DSideScrollerBP/Blueprints/Widget_HUD.Widget_HUD:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_5:Inventory_UI_C_10.WidgetTree_0.CanvasPanel_0
+[2019.02.14-14.23.37:717][274]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/2DSideScrollerBP/Blueprints/Widget_HUD.Widget_HUD:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0) from referencer (Border /Engine/UMG/Editor/Transient.Border_354).  Import failed...
+[2019.02.14-14.23.37:717][274]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_0"''
+[2019.02.14-14.24.46:075][764]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.14-14.24.46:916][798]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.14-14.25.17:000][150]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Level_01' took 0.047
+[2019.02.14-14.25.17:019][150]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/Inventory_UI] ([1] browsable assets)...
+[2019.02.14-14.25.17:019][150]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/Inventory_UI]
+[2019.02.14-14.25.17:031][150]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/Inventory_UI_Auto33BD18BE742AF4A58A2F39889B0448847.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/Inventory_UI_Auto3.uasset'
+[2019.02.14-14.25.17:034][150]LogFileHelpers: Auto-saving content packages took 0.031
+[2019.02.14-14.25.39:888][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Inventory_UI" FILE="D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/Inventory_UI.uasset" SILENT=true
+[2019.02.14-14.25.39:898][254]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/Inventory_UID241584D4498A539E4ED0F929E4E53E3.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/Inventory_UI.uasset'
+[2019.02.14-14.26.55:001][361]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/PowerUp_Jump.PowerUp_Jump_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/Jump.PackageMetaData'
+[2019.02.14-14.26.55:001][361]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/PowerUp_Jump.PowerUp_Jump:EventGraph.K2Node_Event_0' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/Jump.PackageMetaData'
+[2019.02.14-14.26.55:002][361]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/PowerUp_Jump.PowerUp_Jump:EventGraph.K2Node_Event_1' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/Jump.PackageMetaData'
+[2019.02.14-14.26.55:002][361]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/PowerUp_Jump.PowerUp_Jump:EventGraph.K2Node_Event_2' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/Jump.PackageMetaData'
+[2019.02.14-14.26.55:002][361]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/PowerUp_Jump.PowerUp_Jump:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/Jump.PackageMetaData'
+[2019.02.14-14.26.55:002][361]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/PowerUp_Jump.SKEL_PowerUp_Jump_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/Jump.PackageMetaData'
+[2019.02.14-14.26.55:026][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/PowerUp_Jump" FILE="D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/PowerUp_Jump.uasset" SILENT=true
+[2019.02.14-14.26.55:053][361]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/PowerUp_Jump6F35FA8C4DCA60C87C6A4DA91A9CD460.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/PowerUp_Jump.uasset'
+[2019.02.14-14.26.55:061][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Jump" FILE="D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/Jump.uasset" SILENT=true
+[2019.02.14-14.26.55:081][361]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/JumpF6A8D39D4B6C7DA49882A3B7DD4575A7.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/Jump.uasset'
+[2019.02.14-14.27.05:145][538]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/Shoot_PU.Shoot_PU_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/Shoot.PackageMetaData'
+[2019.02.14-14.27.05:145][538]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/Shoot_PU.SKEL_Shoot_PU_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/Shoot.PackageMetaData'
+[2019.02.14-14.27.05:170][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Shoot_PU" FILE="D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/Shoot_PU.uasset" SILENT=true
+[2019.02.14-14.27.05:209][538]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/Shoot_PU303C1D434771C6277562098FB45B8AF8.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/Shoot_PU.uasset'
+[2019.02.14-14.27.05:216][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Shoot" FILE="D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/Shoot.uasset" SILENT=true
+[2019.02.14-14.27.05:225][538]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/Shoot9F00CF8147D6D19773FF608F4298DE28.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/Shoot.uasset'
+[2019.02.14-14.27.21:898][509]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/Jump_PU.Jump_PU_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/PowerUp_Jump.PackageMetaData'
+[2019.02.14-14.27.21:898][509]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/Jump_PU.SKEL_Jump_PU_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/PowerUp_Jump.PackageMetaData'
+[2019.02.14-14.27.21:898][509]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/Jump_PU.Jump_PU:EventGraph.K2Node_Event_0' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/PowerUp_Jump.PackageMetaData'
+[2019.02.14-14.27.21:898][509]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/Jump_PU.Jump_PU:EventGraph.K2Node_Event_1' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/PowerUp_Jump.PackageMetaData'
+[2019.02.14-14.27.21:898][509]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/Jump_PU.Jump_PU:EventGraph.K2Node_Event_2' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/PowerUp_Jump.PackageMetaData'
+[2019.02.14-14.27.21:898][509]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/Jump_PU.Jump_PU:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/PowerUp_Jump.PackageMetaData'
+[2019.02.14-14.27.21:925][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Jump_PU" FILE="D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/Jump_PU.uasset" SILENT=true
+[2019.02.14-14.27.21:971][509]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/Jump_PUCD5632B04881DA34808B6D89B348645D.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/Jump_PU.uasset'
+[2019.02.14-14.27.22:197][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Jump" FILE="D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/Jump.uasset" SILENT=true
+[2019.02.14-14.27.22:206][509]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/Jump9500016C4D1E44E2D7D1D0910450A6D9.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/Jump.uasset'
+[2019.02.14-14.27.26:872][ 41]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/Speed_PU.Speed_PU_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/Speed.PackageMetaData'
+[2019.02.14-14.27.26:872][ 41]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/Speed_PU.SKEL_Speed_PU_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/Speed.PackageMetaData'
+[2019.02.14-14.27.26:897][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Speed_PU" FILE="D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/Speed_PU.uasset" SILENT=true
+[2019.02.14-14.27.26:924][ 41]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/Speed_PU0FA0CF3E46B0D5ABAA4F30949BD971C8.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/Speed_PU.uasset'
+[2019.02.14-14.27.26:931][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Speed" FILE="D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/Speed.uasset" SILENT=true
+[2019.02.14-14.27.26:955][ 41]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/Speed697BEBF243CF615EA31EADA46FB6AF14.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/Speed.uasset'
+[2019.02.14-14.28.13:470][726]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Jump_PU.Jump_PU
+[2019.02.14-14.35.18:068][684]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/Level_01_Auto48A899B0F47E0A8D1C63C6E8CD2509D1C.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Saved/Autosaves/Game/2DSideScrollerBP/Maps/Level_01_Auto4.umap'
+[2019.02.14-14.35.18:072][684]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Level_01' took 0.118
+[2019.02.14-14.35.18:072][684]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.118
+[2019.02.14-14.35.18:077][684]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/Jump_PU] ([1] browsable assets)...
+[2019.02.14-14.35.18:077][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/Jump_PU]
+[2019.02.14-14.35.18:112][684]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/Jump_PU_Auto4323002EC4D0B5DCE38194BA03AE2AD2C.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/Jump_PU_Auto4.uasset'
+[2019.02.14-14.35.18:114][684]LogFileHelpers: Auto-saving content packages took 0.039
+[2019.02.14-14.35.55:146][193]BlueprintLog: New page: Compile Inventory_UI
+[2019.02.14-14.37.42:947][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Inventory_UI" FILE="D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/Inventory_UI.uasset" SILENT=true
+[2019.02.14-14.37.42:999][313]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/Inventory_UID8D28B5043150DA3B918D2A48B2DB631.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/Inventory_UI.uasset'
+[2019.02.14-14.37.47:693][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Jump_PU" FILE="D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/Jump_PU.uasset" SILENT=true
+[2019.02.14-14.37.47:725][707]LogSavePackage: Moving 'D:/Coden/UnrealEngine4/PowerUp/Saved/Jump_PU8BCBDA2A42A842C91BAB0786DCF78A9D.tmp' to 'D:/Coden/UnrealEngine4/PowerUp/Content/2DSideScrollerBP/Blueprints/Jump_PU.uasset'
+[2019.02.14-14.39.05:121][100]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.02.14-14.39.23:474][375]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/BP_PowerUp_Item.BP_PowerUp_Item
+[2019.02.14-14.40.05:250][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-14.40.25:276][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-14.40.25:324][677]BlueprintLog: New page: Compile BP_PowerUp_Item
+[2019.02.14-14.41.27:582][ 47]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.155 s
+[2019.02.14-14.41.27:582][ 47]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.14-14.41.27:582][ 47]LogOutputDevice: Error: 
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: Ensure condition failed: Cast<APawn>(NewUpdatedComponent->GetOwner()) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Components\PawnMovementComponent.cpp] [Line: 16]
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: FloatingPawnMovement must update a component owned by a Pawn
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: Stack: 
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc49c371f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc49970c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc4998b356 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc43c8dbd5 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc43c74f62 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc4381add2 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc43822d89 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc4380892f UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc438276f3 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc4416f646 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc4416fc87 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc40448f26 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc406ab5e8 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc4072bb68 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc492929fe UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc49395872 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc49394313 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc493734b9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc49459ddd UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc492494c5 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc492e1db2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc492c7c7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc492bb25c UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc755ed1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc755e0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc755ef4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc755dc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffca34d6d41 USER32.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffca34d6713 USER32.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffc755f0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ff7fbb854e5 UE4Editor.exe!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ff7fbb95b3c UE4Editor.exe!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ff7fbb95bba UE4Editor.exe!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ff7fbba3dac UE4Editor.exe!UnknownFunction []
+[2019.02.14-14.41.27:583][ 47]LogOutputDevice: Error: [Callstack] 0x00007ff7fbba5aaa UE4Editor.exe!UnknownFunction []
+[2019.02.14-14.41.27:584][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffca3e73034 KERNEL32.DLL!UnknownFunction []
+[2019.02.14-14.41.27:584][ 47]LogOutputDevice: Error: [Callstack] 0x00007ffca5bf3691 ntdll.dll!UnknownFunction []
+[2019.02.14-14.41.27:584][ 47]LogOutputDevice: Error: 
+[2019.02.14-14.41.27:588][ 47]LogStats:                SubmitErrorReport -  0.000 s
